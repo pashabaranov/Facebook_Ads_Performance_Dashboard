@@ -33,3 +33,5 @@ Below are the descriptions of the variables:
 10. Total conversion: Total number of people who enquired about the product after seeing the ad.
 
 11. Approved conversion: Total number of people who bought the product after seeing the ad.
+
+![image](https://user-images.githubusercontent.com/115822935/225996418-066f9221-fcd2-41fa-9a15-3edb368052af.png)
