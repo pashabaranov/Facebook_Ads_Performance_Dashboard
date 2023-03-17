@@ -7,9 +7,7 @@
 ## Description
 [Link to dataset](https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking?datasetId=2678)
 
-The data used in this project is from an anonymous organisation’s social media ad campaign.
-
-The file conversion_data.csv contains 1143 observations in 11 variables.
+The data used in this project is from an anonymous organisation’s social media ad campaign. The file conversion_data.csv contains 1143 observations in 11 variables.
 
 
 Below are the descriptions of the variables:
